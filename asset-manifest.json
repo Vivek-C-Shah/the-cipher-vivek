@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/the-cipher-vivek/static/css/main.6062de2d.css",
+    "main.js": "/the-cipher-vivek/static/js/main.c65c70d4.js",
+    "static/css/64.bba8fa55.chunk.css": "/the-cipher-vivek/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.4db3eea1.chunk.js": "/the-cipher-vivek/static/js/64.4db3eea1.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/the-cipher-vivek/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.38e4695f.chunk.js": "/the-cipher-vivek/static/js/769.38e4695f.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/the-cipher-vivek/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/dotslash.png": "/the-cipher-vivek/static/media/dotslash.1315ee8b615d03634341.png",
+    "static/media/Agustina.woff": "/the-cipher-vivek/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/unilogo.png": "/the-cipher-vivek/static/media/unilogo.6b3eac11717725910bfb.png",
+    "static/media/marwiz.jpeg": "/the-cipher-vivek/static/media/marwiz.c6d1a305c14ca0ba59b2.jpeg",
+    "static/media/manOnTable.svg": "/the-cipher-vivek/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/ibm.png": "/the-cipher-vivek/static/media/ibm.d54349e256cc43c939b1.png",
+    "static/media/contactMailDark.svg": "/the-cipher-vivek/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/the-cipher-vivek/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/eccouncil.png": "/the-cipher-vivek/static/media/eccouncil.5af22b3bf317569ba613.png",
+    "static/media/skill.svg": "/the-cipher-vivek/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/the-cipher-vivek/index.html",
+    "static/media/talksCardBack.svg": "/the-cipher-vivek/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.6062de2d.css.map": "/the-cipher-vivek/static/css/main.6062de2d.css.map",
+    "main.c65c70d4.js.map": "/the-cipher-vivek/static/js/main.c65c70d4.js.map",
+    "64.bba8fa55.chunk.css.map": "/the-cipher-vivek/static/css/64.bba8fa55.chunk.css.map",
+    "64.4db3eea1.chunk.js.map": "/the-cipher-vivek/static/js/64.4db3eea1.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/the-cipher-vivek/static/css/769.b3cbb36b.chunk.css.map",
+    "769.38e4695f.chunk.js.map": "/the-cipher-vivek/static/js/769.38e4695f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6062de2d.css",
+    "static/js/main.c65c70d4.js"
+  ]
+}
