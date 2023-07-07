@@ -37,7 +37,7 @@ const socialMediaLinks = {
   gmail: "vivekchiragshah2004@gmail.com",
   gitlab: "https://gitlab.com/Vivek-C-Shah",
   medium: "https://medium.com/@VivekShah",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  stackoverflow: "https://stackoverflow.com/users/22082472/vivek-shah",
   instagram: "https://www.instagram.com/shhh_vivek/",
   twitter: "https://twitter.com/ShVivek25",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -301,7 +301,7 @@ const blogSection = {
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      url: "https://medium.com/@VivekShah/",
       title: "Why REACT is The Best?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
@@ -320,10 +320,10 @@ const talkSection = {
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      title: "N/A",
+      subtitle: "N/A",
+      slides_url: "N/A",
+      event_url: "N/A"
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -336,9 +336,6 @@ const podcastSection = {
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
-  podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
-  ],
   display: false // Set false to hide this section, defaults to true
 };
 
