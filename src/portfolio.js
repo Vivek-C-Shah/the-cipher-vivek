@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Viewjs / Ejs and some other cool libraries and frameworks."
   ),
-  resumeLink: `${process.env.RESUME}`, // Set to empty to hide the button
+  resumeLink: `https://drive.google.com/file/d/1oYbyCNPXZ2tLHiGLeC_S6N6eqQ5NAQ6K/view?usp=sharing`, // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -307,7 +307,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
