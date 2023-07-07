@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-cipher-vivek/static/css/main.6062de2d.css",
-    "main.js": "/the-cipher-vivek/static/js/main.c65c70d4.js",
+    "main.js": "/the-cipher-vivek/static/js/main.6225c2c8.js",
     "static/css/64.bba8fa55.chunk.css": "/the-cipher-vivek/static/css/64.bba8fa55.chunk.css",
     "static/js/64.4db3eea1.chunk.js": "/the-cipher-vivek/static/js/64.4db3eea1.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/the-cipher-vivek/static/css/769.b3cbb36b.chunk.css",
@@ -20,7 +20,7 @@
     "index.html": "/the-cipher-vivek/index.html",
     "static/media/talksCardBack.svg": "/the-cipher-vivek/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.6062de2d.css.map": "/the-cipher-vivek/static/css/main.6062de2d.css.map",
-    "main.c65c70d4.js.map": "/the-cipher-vivek/static/js/main.c65c70d4.js.map",
+    "main.6225c2c8.js.map": "/the-cipher-vivek/static/js/main.6225c2c8.js.map",
     "64.bba8fa55.chunk.css.map": "/the-cipher-vivek/static/css/64.bba8fa55.chunk.css.map",
     "64.4db3eea1.chunk.js.map": "/the-cipher-vivek/static/js/64.4db3eea1.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/the-cipher-vivek/static/css/769.b3cbb36b.chunk.css.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.6062de2d.css",
-    "static/js/main.c65c70d4.js"
+    "static/js/main.6225c2c8.js"
   ]
 }
