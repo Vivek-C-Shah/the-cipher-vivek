@@ -281,6 +281,20 @@ const achievementSection = {
           url: "https://www.coursera.org/account/accomplishments/certificate/SW9ACURR9W3S"
         }
       ]
+    },
+
+    {
+      title: "Network security and Database vulnerablities - IBM",
+      subtitle:
+        "Completed Certifcation from IBM for Network Security and Database Vulnerablities.",
+      image: require("./assets/images/ibm.png"),
+      imageAlt: "IBM Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.coursera.org/account/accomplishments/certificate/CVSA7GVVRJBY"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -292,7 +306,7 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-  displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
+  displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
