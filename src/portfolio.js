@@ -35,11 +35,11 @@ const socialMediaLinks = {
   github: "https://github.com/Vivek-C-shah",
   linkedin: "https://www.linkedin.com/in/the-cipher-vivek/",
   gmail: "vivekchiragshah2004@gmail.com",
-  gitlab: "https://gitlab.com/Vivek-C-Shah",
-  medium: "https://medium.com/@VivekShah",
-  stackoverflow: "https://stackoverflow.com/users/22082472/vivek-shah",
+  // gitlab: "https://gitlab.com/Vivek-C-Shah",
+  // medium: "https://medium.com/@VivekShah",
+  // stackoverflow: "https://stackoverflow.com/users/22082472/vivek-shah",
   instagram: "https://www.instagram.com/shhh_vivek/",
-  twitter: "https://twitter.com/ShVivek25",
+  // twitter: "https://twitter.com/ShVivek25",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -172,7 +172,7 @@ const workExperiences = {
       desc: "Developed a full stack web application for the company to manage their data and for the marketting of sales.",
       descBullets: [
         "Developed Frontend with ReactJS and Backend with NodeJS",
-        "https://techinnovatemobility.com/"
+        "techinnovatemobility.com/"
       ]
     },
     {
@@ -351,7 +351,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "ShVivek25", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer

@@ -58,7 +58,7 @@ export default function Contact() {
             ) : (
               <img
                 alt="Man working"
-                src={require("../../assets/images/contactMailDark.svg")}
+                src="https://avatars.githubusercontent.com/u/94179705?u=4ce4c39b7aedfac298f233a75c876b4d264f8d64&v=4"
               ></img>
             )}
           </div>
