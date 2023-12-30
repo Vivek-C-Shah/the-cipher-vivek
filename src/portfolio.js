@@ -20,12 +20,12 @@ const illustration = {
 };
 
 const greeting = {
+  resumeLink: `https://drive.google.com/file/d/19eNxM62wL0kmGodY3lGnoqG6DTG33u2H/view?usp=sharing`,
   username: "The Cipher Vivek",
   title: "Hi all, I'm Vivek Shah",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Viewjs / Ejs and some other cool libraries and frameworks."
+    "A passionate Full Stack Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / RustLang / Actix Web / Rocket and some other cool libraries and frameworks."
   ),
-  resumeLink: `https://drive.google.com/file/d/1oYbyCNPXZ2tLHiGLeC_S6N6eqQ5NAQ6K/view?usp=sharing`, // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -63,16 +63,12 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Rust",
+      fontAwesomeClassname: "fab fa-rust"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Large Language Models",
+      fontAwesomeClassname: "fas fa-brain"
     },
     {
       skillName: "JavaScript",
@@ -89,6 +85,18 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
+    },
+    {
+      skillName: "html-5",
+      fontAwesomeClassname: "fab fa-html5"
+    },
+    {
+      skillName: "css3",
+      fontAwesomeClassname: "fab fa-css3-alt"
+    },
+    {
+      skillName: "sass",
+      fontAwesomeClassname: "fab fa-sass"
     },
     {
       skillName: "sql-database",
@@ -165,29 +173,37 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Developer Intern",
+      role: "Full Stack Web Development Intern",
       company: "TechInnovate Mobility",
       companylogo: require("./assets/images/techinnovate.jpeg"),
-      date: "September 2022 - November 2022",
+      date: "October 2022 - March 2023",
       desc: "Developed a full stack web application for the company to manage their data and for the marketting of sales.",
       descBullets: [
-        "Developed Frontend with ReactJS and Backend with NodeJS",
+        "Developed Backend using NodeJS and ExpressJS with Database as MongoDB",
         "techinnovatemobility.com/"
       ]
     },
     {
-      role: "Software Developer Intern",
+      role: "Software Engineering Intern",
       company: "Marwiz Tech Pvt. Ltd.",
       companylogo: require("./assets/images/marwiz.jpeg"),
-      date: "June 2023 - August 2023",
-      desc: "Learned about the working of the company and developed a full stack web application for the company to manage their customers and their data."
+      date: "April 2023 - June 2023",
+      desc: "Developed the Backend of the Web Application for the company to manage their data and for the marketting of sales.",
+      descBullets: [
+        "Applied rust(Actix Web Framework) to build and migrated the backend from NodeJS to Rust which improved the website’s performance by 50-60%.",
+        "Also used many security tools to check the security of the website."
+      ]
     },
     {
-      role: "Software Engineer Intern",
+      role: "Software Development Intern",
       company: "Cybertag",
       companylogo: require("./assets/images/cybertag.png"),
       date: "June 2023 - August 2023",
-      desc: "Learned about the working of the company and developed a full stack web application for the company's clients to manage their customers and their data."
+      desc: "Learnt about the working of the company and developed many full stack web application for the company's clients.",
+      descBullets: [
+        "Applied Core Computer Concepts to improve the website’s security and Database.",
+        "Developed finished projects for the clients using JavaScript, Python and Rust."
+      ]
     }
   ]
 };
@@ -204,7 +220,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME PROJECTS, STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
       image: require("./assets/images/Effitto.png"),
@@ -214,6 +230,18 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "http://effitto.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/sih.png"),
+      projectName: "SIH Finals Project",
+      projectDesc: "Created an offline Large Language Model for the Government of India as the part of Smart India Hackathon 2023, where I contributed in the backend of the project and the fine-tuning of AI model.",
+      footerLink: [
+        {
+          name: "Visit Github Repo",
+          url: "https://github.com/Vivek-C-Shah/sih_IF"
         }
         //  you can add extra buttons here.
       ]
@@ -270,29 +298,15 @@ const achievementSection = {
     },
 
     {
-      title: "Penetration Testing, Incident Response & Digital Forensics - IBM",
+      title: "IBM Cyber Security Analyst - IBM",
       subtitle:
-        "Completed Certifcation from IBM for Penetration Testing, Incident Response & Digital Forensics.",
+        "Completed Cyber Security Certifcation from IBM.",
       image: require("./assets/images/ibm.png"),
       imageAlt: "IBM Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://www.coursera.org/account/accomplishments/certificate/SW9ACURR9W3S"
-        }
-      ]
-    },
-
-    {
-      title: "Network security and Database vulnerablities - IBM",
-      subtitle:
-        "Completed Certifcation from IBM for Network Security and Database Vulnerablities.",
-      image: require("./assets/images/ibm.png"),
-      imageAlt: "IBM Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://www.coursera.org/account/accomplishments/certificate/CVSA7GVVRJBY"
+          url: "https://www.coursera.org/account/accomplishments/certificate/W6FL67SLTC2D"
         }
       ]
     }
