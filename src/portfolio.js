@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  resumeLink: `https://drive.google.com/file/d/19eNxM62wL0kmGodY3lGnoqG6DTG33u2H/view?usp=sharing`,
+  resumeLink: `https://the-cipher-vivek-resume.vercel.app/root/index.html`,
   username: "The Cipher Vivek",
   title: "Hi all, I'm Vivek Shah",
   subTitle: emoji(
